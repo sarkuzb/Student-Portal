@@ -50,10 +50,3 @@ This platform enables seamless interaction between students, faculty, and admins
 | **JWT / Sessions**| Authentication       |
 
 ---
-
-## ⚙️ Installation & Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/student-portal.git
-cd student-portal
